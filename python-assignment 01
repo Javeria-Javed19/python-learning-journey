@@ -1,1 +1,47 @@
+Python Assignment 01
 
+Topic: Variables and Basic Data Types
+
+Q1. Variable
+
+What is a variable in Python? Write the syntax to create a variable and give one example.
+
+Q2. Rules of Variable Naming
+
+Write any three rules for naming variables in Python. Give one correct and one incorrect example.
+
+Q3. Integer Data Type
+
+What is an integer data type? Write one Python example of an integer variable.
+
+Q4. Float Data Type
+
+What is a float data type? Write one Python example using a decimal value.
+
+Q5. String Data Type
+
+What is a string data type? Write two ways to create a string in Python with examples.
+
+Q6. Boolean Data Type
+
+What is a boolean data type? Write its possible values and one example.
+
+Q7. type() Function
+
+What does the type() function do in Python? Explain with an example.
+
+Q8. input() Function
+
+What is the input() function used for in Python? What is the default data type of input? Give an example.
+
+Q9. Type Casting
+
+What is type casting? Write a Python example to convert a string into an integer.
+
+Q10. Program-Based Question
+
+Write a Python program that takes a number from the user and prints its data type.
+
+Why This Assignment is Good
+
+This assignment covers the fundamental concepts of Python programming such as variables, naming rules, basic data types, user input, and type conversion. It helps beginners build a strong foundation, improve logical thinking, and gain initial hands-on practice, which is essential before moving to more advanced programming topics.
