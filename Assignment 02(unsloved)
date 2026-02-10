@@ -1,0 +1,24 @@
+Python Assignment – Operators
+Instructions:
+Answer all questions. Write Python code where required.
+Arithmetic Operators
+Q1. Write a Python program to add two numbers and print the result.
+Q2. Write a Python program to find the remainder when one number is divided by another.
+Q3. Write a Python program to calculate the square of a number using the power operator.
+Assignment Operators
+Q4. Write a Python program that assigns a value to a variable and then increases it by 5 using an assignment operator.
+Q5. Write a Python program that multiplies a variable by 2 using an assignment operator.
+Q6. Write a Python program that subtracts 10 from a variable using an assignment operator.
+Comparison Operators
+Q7. Write a Python program to check whether two numbers are equal or not.
+Q8. Write a Python program to check if one number is greater than another.
+Q9. Write a Python program to compare two numbers and print whether the first number is less than or equal to the second number.
+Logical Operators
+Q10. Write a Python program that checks if a number is greater than 5 and less than 20.
+Q11. Write a Python program that checks if a number is less than 10 or greater than 50.
+Q12. Write a Python program that uses the not operator to reverse a condition.
+Membership Operators
+Q13. Write a Python program to check if a number exists in a given list.
+Q14. Write a Python program to check if a word exists in a given string.
+Q15. Write a Python program to check whether a value is not present in a tuple.
+End of Assignment
